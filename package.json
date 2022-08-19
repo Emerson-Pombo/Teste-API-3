@@ -1,0 +1,17 @@
+{
+  "name": "automacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emerson Pombo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
